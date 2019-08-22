@@ -1,0 +1,19 @@
+Línea 9: booleaN estaba mal escrito, cambie la n a una minuscula
+
+Línea 9: Cambie el 0 que recibia la variable de tipo booleano a false
+
+Línea 10: Remplace el valor que recibia el byte a 127, ya que este estaba fuera de su rango
+
+Línea 11: La variable short recibia un valor que no estaba en su rango, lo cambie por -32768
+
+Línea 14: La variable discriminate estaba mal escrita ya que estaba con una "D" mayúscula, asi que la cambie por una minuscula.
+
+Línea 14: Cambie el tipo de variable a double, ya que no tenia sentido 
+
+Línea 17: La variable tipo char estaba escrita incorrectamente ya que estaba en mayúscula, por lo que se lo cambie a minuscula.
+
+Línea 18: La variable "ch1" estaba mal declarada ya que le faltaba el 1 por lo que se lo agregue 
+
+Línea 18: Habia un elemento de tipo char declarado con comillas dobles. LO cambie a comillas simples.
+
+Línea 22: EL valor de esta variable no estaba en el rango de Int por lo que se lo cambie a un long
